@@ -4,8 +4,7 @@
   "description": "Reads fill_order virtual operations for a Hive account since a given block, cross-checked across two public nodes, in the standard fill shape the venue-fill-booking lot consumes, plus the account's current liquid inventory. Read-only.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/computer-systems-engineering-services-section.git",
-    "directory": "services/computer-blockchain-system-services-section/services/hive-engineering-services-section/services/internal-market-services-section/services/reconcile-peg-ladder-fills-service"
+    "url": "git+https://github.com/red-cup-engineering/reconcile-peg-ladder-fills-service.git"
   },
   "type": "module",
   "private": false,
